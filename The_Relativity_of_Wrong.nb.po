@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-07-25 21:53+0200\n"
-"PO-Revision-Date: 2016-07-26 00:42+0200\n"
+"PO-Revision-Date: 2016-07-26 08:55+0200\n"
 "Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <i18n-no@lister.ping.uio.no>\n"
 "Language: nb\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #. type: Plain text
 msgid "From The Skeptical Inquirer, Fall 1989, Vol. 14, No. 1, Pp. 35-44"
-msgstr ""
+msgstr "Fra The Skeptical Inquirer, høsten 1989, vol. 14, no. 1, s. 35-44"
 
 #. type: Plain text
 msgid "The Relativity of Wrong"
@@ -26,7 +26,7 @@ msgstr "Relativiteten til galt"
 
 #. type: Plain text
 msgid "By Isaac Asimov"
-msgstr "Av Isaac Asimov"
+msgstr "Av Isaac Asimov.  Oversatt til bokmål av Petter Reinholdtsen"
 
 #. type: Plain text
 msgid ""
@@ -39,13 +39,13 @@ msgid ""
 "of my ignorance and I am prepared to learn as much as I can from anyone, so "
 "I read on.)"
 msgstr ""
-"Jeg mottok et brev her om dagen.  Det var håndskrevet med knotete håndskrift "
-"som gjorde det vanskelig å lese.  Uansett forsøkte jeg å forstå hva som sto "
+"Jeg fikk et brev her om dagen.  Det var håndskrevet med knotete håndskrift "
+"som gjorde det vanskelig å lese.  Jeg forsøkte uansett å forstå hva som sto "
 "der i tilfelle det skulle vise seg å være noe viktig.  I den første "
-"setningen forklarte forfatteren at han hadde hovedfag i engelsk men følte at "
-"han trengte å lære meg naturvitenskap.  (Jeg sukket litt, da jeg vet veldig "
-"få med engelsk hovedfag som er utstyrt til å lære meg naturvitenskap.  Men "
-"jeg er godt kjent med det enorme omfanget av alt jeg ikke vet og klar til å "
+"setningen forklarte forfatteren at han hadde hovedfag i engelsk litteratur men "
+"følte at han trengte å lære meg naturvitenskap.  (Jeg sukket litt, da jeg vet "
+"veldig få med engelsk hovedfag som er utstyrt til å lære meg naturvitenskap.  "
+"Men jeg er godt kjent med det enorme omfanget av alt jeg ikke vet og klar til å "
 "lære så mye jeg kan fra hvem det skal være, så jeg fortsatte å lese.)"
 
 #. type: Plain text
@@ -70,6 +70,14 @@ msgid ""
 "are the basic units of the physical universe, as discovered between 1920 and "
 "1930."
 msgstr ""
+"Jeg gikk ikke i detaljer, men det jeg mente var at vi nå vet de grunnleggende "
+"reglene som styrer universet og hvordan gravitasjonen for mesteparten virker "
+"sammen, slik relativitetsteorien utarbeidet mellom 1905 og 1916 viser.  Vi "
+"kjenner også til de grunnleggende reglene som styrer subatomære partikler og "
+"deres forhold til hverandre, da disse er svært godt beskrevet av "
+"kvanteteorien som ble utarbeidet mellom 1900 og 1930.  I tillegg har vi "
+"funnet ut at galakser og samlinger av galakser er de grunnleggende enhetene "
+"som utgjør det fysiske universet, slik det ble oppdaget mellom 1920 og 1930."
 
 #. type: Plain text
 msgid "These are all twentieth-century discoveries, you see."
@@ -96,6 +104,10 @@ msgid ""
 "thinking the earth is flat, then your view is wronger than both of them put "
 "together.\""
 msgstr ""
+"Jeg svarte ham slik: «Da folk tenkte at jorden var flat, John, så tok de "
+"feil.  Når folk tenkte at orden var sfærisk, så tok de feil.  Men hvis du "
+"tror at det å tenke at jorden er sfærisk er like galt som å tenke at jorda er "
+"flat, så er ditt syn mer feil enn begge to slått sammen.»"
 
 #. type: Plain text
 msgid ""
