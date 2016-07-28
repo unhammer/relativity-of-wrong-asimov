@@ -22,11 +22,11 @@ msgstr "Fra The Skeptical Inquirer, høsten 1989, vol. 14, no. 1, s. 35-44"
 
 #. type: Plain text
 msgid "The Relativity of Wrong"
-msgstr "Relativiteten til galt"
+msgstr "Relativiteten til feil"
 
 #. type: Plain text
 msgid "By Isaac Asimov"
-msgstr "Av Isaac Asimov.  Oversatt til bokmål av Petter Reinholdtsen"
+msgstr "Av Isaac Asimov.  Oversatt til bokmål av Petter Reinholdtsen."
 
 #. type: Plain text
 msgid ""
@@ -83,7 +83,7 @@ msgstr ""
 
 #. type: Plain text
 msgid "These are all twentieth-century discoveries, you see."
-msgstr "Disse, ser du, er alle oppdagelser fra det tyvende århundre."
+msgstr "Alle disse, ser du, er oppdagelser fra det tyvende århundre."
 
 #. type: Plain text
 msgid ""
@@ -97,6 +97,16 @@ msgid ""
 "because I alone know that I know nothing.\" the implication was that I was "
 "very foolish because I was under the impression I knew a great deal."
 msgstr ""
+"Etter at den unge engelsk litteraturviteren hadde sitert meg, fortsatte han "
+"med å belære meg om faktumet at i hvert århundre hadde folk trodd de endelig "
+"hadde forstått universet, og i hvert eneste århundre hadde det vist seg at "
+"de tok feil.  Konklusjonen er at det eneste vi kan si om vår modere "
+"«kunnskap» er at den beviselig er feil.  Den unge mannen ga deretter sin "
+"støtte til et sitat fra Sokrates, som hadde kommet med en kommentar da han "
+"ble kjent med at oraklet i Delfi hadde erklært at han var den viseste mannen "
+"i Hellas. «Hvis jeg er den viseste mannen», sa Skokrates, «så er det kun på "
+"grunn av at jeg vet at jeg intet vet.»  Implikasjonen var at jeg var svært "
+"tåpelig som innbilte meg at jeg viste en hel masse."
 
 #. type: Plain text
 msgid ""
@@ -138,7 +148,7 @@ msgid ""
 "what I want to know is how wrong are they? Are they always wrong to the same "
 "degree? Let's take an example."
 msgstr ""
-"Når min venn og engelsk litteratur-ekspert forteller meg at i hvert århundre "
+"Når min venn og engelsk litteraturviter forteller meg at i hvert århundre "
 "har naturvitenskapsfolk tenkt at de har forstått universet og alltid tatt "
 "feil, så ønsker jeg å vite hvor feil tok de?  Har de alltid tatt like mye "
 "feil?  La oss se på et eksempel."
@@ -152,6 +162,12 @@ msgid ""
 "the earth does not look flat. It looks chaotically bumpy, with hills, "
 "valleys, ravines, cliffs, and so on."
 msgstr ""
+"I sivilisasjonens tidlige dager, var den generelle forståelsen at jorda var "
+"flat.  Det kom ikke av at folk var dumme, eller av at de var bestemt på å "
+"tro på rare ting.  De opplevde at den var flat basert på klare indisier.  "
+"Det var ikke et enkelt spørsmål om «det er slik den ser ut», da jorden jo "
+"ikke ser flat ut.  Den er jo kaotisk humpete, med hauger, daler, "
+"steinrøyser, klipper og så videre."
 
 #. type: Plain text
 msgid ""
@@ -160,6 +176,10 @@ msgid ""
 "where the first historical civilization (one with writing) developed, that "
 "of the Sumerians."
 msgstr ""
+"Selvsagt er det sletter der, i begrensede områder, jordens overflate ser "
+"ganske flat ut.  En av disse slettene er i Tigris-Eufrat-området, hvor den "
+"første historiske sivilisasjonen (en med skriftspråk) ble utviklet seg.  "
+"Dvs. Summererne."
 
 #. type: Plain text
 msgid ""
@@ -474,5 +494,7 @@ msgid ""
 "simplistic sense of my English Lit correspondent, but in a much truer and "
 "subtler sense, they need only be considered incomplete."
 msgstr ""
-
-
+"Selvfølgelig kan teoriene vi har nå anses å være feil i den enkle "
+"betydningen av ordet som min engelske litteraturviterkorrepondent legger opp "
+"til, men i en mer sannferdig og subtil forståelse bør de bare anses som "
+"ufullstendige."
