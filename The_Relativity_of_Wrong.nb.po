@@ -27,7 +27,9 @@ msgstr "Relativt galt"
 
 #. type: Plain text
 msgid "By Isaac Asimov"
-msgstr "Av Isaac Asimov.  Oversatt til bokmål av Petter Reinholdtsen."
+msgstr ""
+"Av Isaac Asimov.  Oversatt til bokmål av Petter Reinholdtsen og Asbjørn "
+"Dyrendal."
 
 #. type: Plain text
 msgid ""
@@ -217,6 +219,10 @@ msgid ""
 "the earth is nearly 0 per mile, so that although the flat-earth theory is "
 "wrong, it happens to be nearly right. That's why the theory lasted so long."
 msgstr ""
+"I dag lærer vi naturligvis at flat jord-teorien er fei.  At den er helt "
+"feil, forferdelig feil, uten tvil.  Men den er ikke det.  Krumningen på "
+"jorden er nesten 0 per mil, så selv om flat jord-teorien e feil, så er den "
+"jo også nesten riktig.  Det er årsaken til at teorien holdt ut så lenge."
 
 #. type: Plain text
 msgid ""
@@ -235,6 +241,9 @@ msgid ""
 "surface were flat, but could be explained by assuming the earth to be a "
 "sphere."
 msgstr ""
+"Alle disse tre observasjonene kunne ikke forklares på fornuftig vis hvis "
+"jordens overflate var flat, men kunne forklares ved å anta at jorden var en "
+"sfære."
 
 #. type: Plain text
 msgid ""
@@ -287,6 +296,9 @@ msgid ""
 "its inventors, all things considered, it is wrong enough to be discarded in "
 "favor of the spherical-earth theory."
 msgstr ""
+"Så selv om flat jord-teorien bare er litt feil, og bør, når alt kommer til "
+"alt, gi anerkjennelse til de som kom opp med den, så er den feil nok til å "
+"forkastes til fordel for teorien om en sfærisk jord."
 
 #. type: Plain text
 msgid "And yet is the earth a sphere?"
