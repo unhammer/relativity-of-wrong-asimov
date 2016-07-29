@@ -489,6 +489,12 @@ msgid ""
 "rather than miles, and the adjustment of curvature was in the millionths of "
 "an inch per mile."
 msgstr ""
+"Det ser ikke ut til å være noen annen måte å beskrive dette enn å si at "
+"jorden er pæreformet, og med en gang var det mange som bestemte seg for at "
+"jorden overhodet ikke lignet på en kule men var formet som en *Bartlett*-"
+"pære som hang i rommet.  Egentlig var det pærelignende avviket et spørsmål "
+"om meter i stedet for kilometer, og justeringen i kromningen i området "
+"milliontedels centimeter pr. kilometer."
 
 #. type: Plain text
 msgid ""
@@ -497,6 +503,10 @@ msgid ""
 "may be thought spherical now, but cubical next century, and a hollow "
 "icosahedron the next, and a doughnut shape the one after."
 msgstr ""
+"Min venn litteraturviteren som kort og godt levde i en mental verden med "
+"absolutt riktig og feil, kan ha forestilt seg at i og med at alle teorier er "
+"feil, sa kan jorden tenkes å være kuleformet nå, kubisk neste århundre, en "
+"hul *icosahedron* det neste og smultringformet det påfølgende."
 
 #. type: Plain text
 msgid ""
