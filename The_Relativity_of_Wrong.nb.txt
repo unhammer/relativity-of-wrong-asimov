@@ -25,7 +25,7 @@ mesteparten virker sammen, slik relativitetsteorien utarbeidet mellom 1905
 og 1916 viser.  Vi kjenner også til de grunnleggende reglene som styrer
 subatomære partikler og deres forhold til hverandre, da disse er svært godt
 beskrevet av kvanteteorien som ble utarbeidet mellom 1900 og 1930.  I
-tillegg har vi funnet ut at galakser og  galakshoper er de grunnleggende
+tillegg har vi funnet ut at galakser og  galaksehoper er de grunnleggende
 enhetene som utgjør det fysiske universet, noe vi oppdaget mellom 1920 og
 1930.
 
@@ -72,7 +72,7 @@ ganske flat ut.  En av disse slettene er i Tigris-Eufrat-området, hvor den
 første historiske sivilisasjon (en med skriftspråk) utviklet seg, den
 sumeriske.
 
-Kanskje var det slettens utseende som fikk smarte sunmerere til å akseptere
+Kanskje var det slettens utseende som fikk smarte sumerere til å akseptere
 generaliseringen om at jorden var flat; at om du, på et eller annet vis
 jevnet ut alle høyder og daler, så ville du stå igjen med noe flatt. At
 strekninger med vann, som dammer og innsjøer, så ganske flate ut på stille
@@ -149,7 +149,7 @@ jorden har ulik lengde.
 
 Hvorfra fikk folk ideen om at jorden ikke var en ekte kule?  I starten hadde
 solen og månen omriss som var perfekte sirkler i henhold til
-målebegresningene da teleskopet ble tatt i bruk.  Dette er konsistent med
+målebegrensningene da teleskopet ble tatt i bruk.  Dette er konsistent med
 antagelsen om at formen til solen og månen er perfekte kuler.
 
 Men da Jupiter og Saturn ble observert med teleskop for første gang, ble det
@@ -192,7 +192,7 @@ en kule er feil, strengt tatt, så er det ikke like feil som påstanden om at
 jorden er flat.
 
 Selv forståelsen av at jorden er en flatklemt sfæroide er strengt tatt
-feil. Da satelitten Vanguard I ble satt i bane rundt jorden i 1958, klarte
+feil. Da satellitten Vanguard I ble satt i bane rundt jorden i 1958, klarte
 den å måle lokal gravitasjonstiltrekning på jorden -- og dermed dens form --
 med større presisjon enn noen gang tidligere.  Det viste seg at den
 ekvatorianske bulen sør for ekvator hadde litt mer bul enn bulen nord for
@@ -262,6 +262,6 @@ universet.  Målingene de gjorde har blitt enormt forbedret, men prinsippet
 består.
 
 Selvfølgelig kan teoriene vi har nå anses å være feil i den enkle
-betydningen av ordet som min engelske litteraturviterkorrepondent legger opp
-til, men i en mer sannferdig og subtil forståelse bør de bare anses som
+betydningen av ordet som min engelske litteraturviterkorrespondent legger
+opp til, men i en mer sannferdig og subtil forståelse bør de bare anses som
 ufullstendige.
