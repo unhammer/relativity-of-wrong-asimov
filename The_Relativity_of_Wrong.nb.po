@@ -23,7 +23,7 @@ msgstr "Fra Skeptical Inquirer, høsten 1989, vol. 14, no. 1, s. 35-44"
 
 #. type: Plain text
 msgid "The Relativity of Wrong"
-msgstr "Relativt galt"
+msgstr "Relativt feil"
 
 #. type: Plain text
 msgid "By Isaac Asimov"
@@ -121,7 +121,7 @@ msgid ""
 msgstr ""
 "Jeg svarte ham slik: «Da folk tenkte at jorden var flat, John, så tok de "
 "feil.  Da folk tenkte at jorden var sfærisk, så tok de feil.  Men hvis du "
-"tror at det å tenke at jorden er sfærisk er like galt som å tenke at jorda "
+"tror at det å tenke at jorden er en kule er like galt som å tenke at jorda "
 "er flat, så er ditt syn mer feil enn begge to til sammen.»"
 
 #. type: Plain text
@@ -131,8 +131,8 @@ msgid ""
 "is totally and equally wrong."
 msgstr ""
 "Du forstår, det grunnleggende problemet er at folk tenker at «riktig» og "
-"«galt» er absolutter.  Alt alt som ikke er perfekt og fullstendig riktig er "
-"fullstendig og likeverdig galt."
+"«feil» er absolutter.  Alt alt som ikke er perfekt og fullstendig riktig er "
+"fullstendig og likeverdig feil."
 
 #. type: Plain text
 msgid ""
@@ -221,8 +221,9 @@ msgid ""
 msgstr ""
 "I dag lærer vi naturligvis at flat jord-teorien er feil.  At den er helt "
 "feil, forferdelig feil, uten tvil.  Men den er ikke det.  Krumningen på "
-"jorden er nesten 0 per kilometer, så selv om flat jord-teorien e feil, så er "
-"den jo også nesten riktig.  Det er årsaken til at teorien holdt ut så lenge."
+"jorden er nesten 0 per kilometer, så selv om flat jord-teorien er feil, så "
+"er den jo også nesten riktig.  Det er årsaken til at teorien holdt ut så "
+"lenge."
 
 #. type: Plain text
 msgid ""
