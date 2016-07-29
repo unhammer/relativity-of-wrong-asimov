@@ -199,17 +199,17 @@ ekvatorianske bulen sør for ekvator hadde litt mer bul enn bulen nord for
 ekvator, og at havnivået ved sørpolen var litt nærmere jordens sentrum enn
 havnivået ved nordpolen.
 
-There seemed no other way of describing this than by saying the earth was
-pear-shaped, and at once many people decided that the earth was nothing like
-a sphere but was shaped like a Bartlett pear dangling in space. Actually,
-the pear-like deviation from oblate-spheroid perfect was a matter of yards
-rather than miles, and the adjustment of curvature was in the millionths of
-an inch per mile.
+Det ser ikke ut til å være noen annen måte å beskrive dette enn å si at
+jorden er pæreformet, og med en gang var det mange som bestemte seg for at
+jorden overhodet ikke lignet på en kule men var formet som en
+*Bartlett*-pære som hang i rommet.  Egentlig var det pærelignende avviket et
+spørsmål om meter i stedet for kilometer, og justeringen i kromningen i
+området milliontedels centimeter pr. kilometer.
 
-In short, my English Lit friend, living in a mental world of absolute rights
-and wrongs, may be imagining that because all theories are wrong, the earth
-may be thought spherical now, but cubical next century, and a hollow
-icosahedron the next, and a doughnut shape the one after.
+Min venn litteraturviteren som kort og godt levde i en mental verden med
+absolutt riktig og feil, kan ha forestilt seg at i og med at alle teorier er
+feil, sa kan jorden tenkes å være kuleformet nå, kubisk neste århundre, en
+hul *icosahedron* det neste og smultringformet det påfølgende.
 
 Det som egentlig skjer er at når vitenskapsfolk har fått tak på et godt
 konsept er at de de gravis vil forbedre og utvide det med større og større
