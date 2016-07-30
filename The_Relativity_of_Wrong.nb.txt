@@ -178,7 +178,7 @@ diameteren» er 12 755 kilometer.  Den korteste diameteren er fra nordpolen
 til sydpolen og denne «polare diameteren» er 12 711 kilometer.
 
 Differansen mellom den lengste og den korteste diameteren er 44 kilometer,
-og det betyr at «*utdrattheten*» for jorden (dets avvik fra en ekte kule) er
+og det betyr at «flattrykningen» til jorden (dets avvik fra en ekte kule) er
 44/12755 eller 0.0034.  Det utgjør 1/3 av 1 prosent.
 
 For å si det på en annen måte, så vil krumningen over alt på en flat
@@ -210,11 +210,11 @@ området milliontedels centimeter pr. kilometer.
 Min venn litteraturviteren som kort og godt levde i en mental verden med
 absolutt riktig og feil, kan ha forestilt seg at i og med at alle teorier er
 feil, sa kan jorden tenkes å være kuleformet nå, kubisk neste århundre, en
-hul *icosahedron* det neste og smultringformet det påfølgende.
+hul ikosaeder det neste og smultringformet det påfølgende.
 
 Det som egentlig skjer er at når vitenskapsfolk har fått tak på et godt
 konsept er at de de gravis vil forbedre og utvide det med større og større
-*subtlety* etter hvert som måleinstrumentene blir bedre.  Teorier er mer
+nyanserikdom etter hvert som måleinstrumentene blir bedre.  Teorier er mer
 ufullstendige enn feil.
 
 Dette gjelder for mange andre tilfeller enn kun formen på jorden.  Selv når
