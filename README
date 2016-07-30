@@ -30,7 +30,7 @@ I bc-notasjon:
  r = o / (2 * pi)
  sqrt(r^2+1) - r
 
-Dette gir krumning er 0,00007854 km pr. km, dvs 7,854 cm pr. km.
+Dette gir krumning på 0,00007854 km pr. km, dvs 7,854 cm pr. km.
 
 For en flatklemt sfæroide blir krumningen mellom 0.00007840 og
 0.00007867 km pr. km gitt diameter 12 711 kl og 12 755 km.
