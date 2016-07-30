@@ -43,7 +43,7 @@ av at jeg alene vet at jeg intet vet.»  Implikasjonen var at jeg var svært
 tåpelig som innbilte meg at jeg viste en hel masse.
 
 Jeg svarte ham slik: «Da folk tenkte at jorden var flat, John, så tok de
-feil.  Da folk tenkte at jorden var sfærisk, så tok de feil.  Men hvis du
+feil.  Da folk tenkte at jorden var kulerund, så tok de feil.  Men hvis du
 tror at det å tenke at jorden er en kule er like galt som å tenke at jorda
 er flat, så er ditt syn mer feil enn begge to til sammen.»
 
@@ -136,7 +136,7 @@ antagelse som er konsistent med alle senere observasjoner.
 
 Så selv om flat jord-teorien bare er litt feil, og bør, når alt kommer til
 alt, gi anerkjennelse til de som kom opp med den, så er den feil nok til å
-forkastes til fordel for teorien om en sfærisk jord.
+forkastes til fordel for teorien om en kulerund jord.
 
 Men er virkelig jorden en kule?
 
@@ -187,10 +187,10 @@ krumningen overalt 0.000078 pr. kilometer (eller *8 tommer pr. engelsk
 mil*).  På jordens flatklemte sfæroideoverflate vil krumningen variere
 mellom *7.973 tommer pr. engelsk mil* til *8.027 tommer pr. engelsk mil*.
 
-Korreksjonen når en går fra kuleform til flate sfæroider er mye mindre enn
-når en går fra flat til kuleform.  Dermed, selv om påstanden om at jorden er
-en kule er feil, strengt tatt, så er det ikke like feil som påstanden om at
-jorden er flat.
+Korreksjonen når en går fra kuleform til flatklemt sfæroider er mye mindre
+enn når en går fra flat til kuleform.  Dermed, selv om påstanden om at
+jorden er en kule er feil, strengt tatt, så er det ikke like feil som
+påstanden om at jorden er flat.
 
 Selv forståelsen av at jorden er en flatklemt sfæroide er strengt tatt
 feil. Da satellitten Vanguard I ble satt i bane rundt jorden i 1958, klarte
@@ -253,8 +253,8 @@ det at svært gamle teorier også må ha hatt tilstrekkelig rett til å føre ti
 fremskritt.  Fremskritt som ikke ble borte av påfølgende forbedringer.
 
 Grekerne introduserte for eksempel begrepene lengdegrad og breddegrad, og
-laget fornuftige kart over middelhavet, uten å ta hensyn til sfæriskiskhet,
-og vi bruker fortsatt lengdegrad og breddegrad i dag.
+laget fornuftige kart over middelhavet, uten å ta hensyn til kuleform, og vi
+bruker fortsatt lengdegrad og breddegrad i dag.
 
 Sumererne var antagelig de første til å etablere prinsippet om at planetenes
 bevegelser på himmelen var regelmessige og kunne forutsies.  De fortsatte
