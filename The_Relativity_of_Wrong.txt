@@ -188,7 +188,7 @@ kilometers (7,900 miles).
 The difference between the longest and shortest diameters is 44
 kilometers (27 miles), and that means that the "oblateness" of the
 earth (its departure from true sphericity) is 44/12755, or
-0.0034. This amounts to l/3 of 1 percent.
+0.0034. This amounts to 1/3 of 1 percent.
 
 To put it another way, on a flat surface, curvature is 0 per mile
 everywhere. On the earth's spherical surface, curvature is 0.000126
