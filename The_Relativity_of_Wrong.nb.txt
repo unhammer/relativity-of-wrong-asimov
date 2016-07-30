@@ -121,21 +121,20 @@ mellom 0 og 0.000078 forklarer hvorfor det tok så lang tid å komme fra en
 flat jord til en kulerund jord.
 
 Merk at selv en ørliten forskjell, som den mellom 0 og 0.000078, kan være
-ekstremt viktig.  Forskjellen summeres opp.  Jorden kan overhode ikke
+ekstremt viktig.  Forskjellen summerer seg opp.  Jorden kan overhodet ikke
 kartlegges nøyaktig over store områder hvis forskjellen ikke tas hensyn til
 og uten at jorden anses å være en kule i stedet for en flat overflate.
 Lange sjøreiser kan ikke gjennomføres med en rimelig måte å finne ut hvor en
-er på havet uten at en tar hensyn til at jorden er kulerundt i stedet for
-flat.
+er på havet uten å anta at jorden er kulerund i stedet for flat.
 
 I tillegg leder en flat jord til muligheten for en uendelig jord, eller
 eksistensen av en «kant» på overflaten.  En kulerund jord, derimot, fører
 til en jord som er både uten kant og ikke uendelig.  Og det er sistnevnte
 antagelse som er konsistent med alle senere observasjoner.
 
-Så selv om flat jord-teorien bare er litt feil, og bør, når alt kommer til
-alt, gi anerkjennelse til de som kom opp med den, så er den feil nok til å
-forkastes til fordel for teorien om en kulerund jord.
+Så selv om flat jord-teorien bare er litt feil og de som kom opp med idéen
+bør berømmes, så er den gal nok til å forkastes til fordel for teorien om en
+kulerund jord.
 
 Men er virkelig jorden en kule?
 
@@ -149,8 +148,8 @@ jorden har ulik lengde.
 
 Hvorfra fikk folk ideen om at jorden ikke var en ekte kule?  I starten hadde
 solen og månen omriss som var perfekte sirkler i henhold til
-målebegrensningene da teleskopet ble tatt i bruk.  Dette er konsistent med
-antagelsen om at formen til solen og månen er perfekte kuler.
+målebegrensningene som rådde i teleskopets første dager.  Dette er
+konsistent med antagelsen om at formen til solen og månen er perfekte kuler.
 
 Men da Jupiter og Saturn ble observert med teleskop for første gang, ble det
 raskt åpenbart at omrisset av disse planetene ikke var sirkler, men helt
@@ -164,21 +163,21 @@ mot gravitasjonen og denne effekten ville være større jo nærmere ekvator en
 kom.  Effekten ville være større jo raskere det runde objektet roterte, og
 både Jupiter og Saturn roterer helt klart veldig raskt.
 
-Jorden roterte mye saktere enn Jupiter og Saturn, slik at effekten ville
+Jorden roterte mye langsommere enn Jupiter og Saturn, slik at effekten burde
 være mindre men fortsatt til stede.  Reelle målinger av krumningen til
 jorden ble gjennomført i det attende århundret og en fant at Newton hadde
 rett.
 
-Med andre ord, jorden buler ved ekvator og er flat ved polene.  Den er en
+Med andre ord buler jorden ved ekvator og er flat ved polene.  Den er en
 «flatklemt sfæroide» i stedet for en kule.  Dette betyr at de forskjellige
 diametrene til jorda har ulik lengde.  De lengste diameterene er de som
 strekker seg fra ekvator til motsatt endre av ekvator.  Denne «ekvatoriske
 diameteren» er 12 755 kilometer.  Den korteste diameteren er fra nordpolen
 til sydpolen og denne «polare diameteren» er 12 711 kilometer.
 
-Differansen mellom den lengste og den korteste diameteren er 44 kilometer,
-og det betyr at «flattrykningen» til jorden (dets avvik fra en ekte kule) er
-44/12755 eller 0.0034.  Det utgjør 1/3 av 1 prosent.
+Forskjellen mellom den lengste og den korteste diamteren er 44 km, hvilket
+betyr at «flattrykningen» til jorden (dets avvik fra en ekte kule) er
+44/12755 eller 0,0034. Det utgjør 1/3 av 1 prosent.
 
 For å si det på en annen måte, så vil krumningen over alt på en flat
 overflate være 0 pr. kilometer.  På jordens kulerunde overflate er
@@ -187,72 +186,73 @@ mil*).  På jordens flatklemte sfæroideoverflate vil krumningen variere
 mellom *7.973 tommer pr. engelsk mil* til *8.027 tommer pr. engelsk mil*.
 
 Korreksjonen når en går fra kuleform til flatklemt sfæroider er mye mindre
-enn når en går fra flat til kuleform.  Dermed, selv om påstanden om at
-jorden er en kule er feil, strengt tatt, så er det ikke like feil som
-påstanden om at jorden er flat.
+enn når en går fra flat til kuleform.  Selv om påstanden om at jorden er en
+kule strengt tatt er feil, så er det dermed ikke like feil som påstanden om
+at jorden er flat.
 
 Selv forståelsen av at jorden er en flatklemt sfæroide er strengt tatt
 feil. Da satellitten Vanguard I ble satt i bane rundt jorden i 1958, klarte
 den å måle lokal gravitasjonstiltrekning på jorden -- og dermed dens form --
 med større presisjon enn noen gang tidligere.  Det viste seg at den
-ekvatorianske bulen sør for ekvator hadde litt mer bul enn bulen nord for
-ekvator, og at havnivået ved sørpolen var litt nærmere jordens sentrum enn
-havnivået ved nordpolen.
+ekvatoriale bulen sør for ekvator hadde litt mer bul enn bulen nord for
+ekvator, og at havnivået ved Sydpolen var litt nærmere jordens sentrum enn
+havnivået ved Nordpolen.
 
 Det ser ikke ut til å være noen annen måte å beskrive dette enn å si at
 jorden er pæreformet, og med en gang var det mange som bestemte seg for at
 jorden overhodet ikke lignet på en kule men var formet som en
-*Bartlett*-pære som hang i rommet.  Egentlig var det pærelignende avviket et
-spørsmål om meter i stedet for kilometer, og justeringen i kromningen i
-området milliontedels centimeter pr. kilometer.
+*Bartlett*-pære som hang i rommet.  I virkeligheten var det pærelignende
+avviket et spørsmål om meter i stedet for kilometer, og justeringen i
+krumningen i området milliontedels centimeter pr. kilometer.
 
-Min venn litteraturviteren som kort og godt levde i en mental verden med
-absolutt riktig og feil, kan ha forestilt seg at i og med at alle teorier er
-feil, sa kan jorden tenkes å være kuleformet nå, kubisk neste århundre, en
-hul ikosaeder det neste og smultringformet det påfølgende.
+Min venn litteraturviteren som lever i en mental verden med absolutt riktig
+og galt, kan ha forestilt seg at i og med at alle teorier er feil, så kan
+jorden tenkes å være kuleformet nå, kubisk neste århundre, en hul ikosaeder
+det neste og smultringformet det påfølgende.
 
 Det som egentlig skjer er at når vitenskapsfolk har fått tak på et godt
-konsept er at de de gravis vil forbedre og utvide det med større og større
-nyanserikdom etter hvert som måleinstrumentene blir bedre.  Teorier er mer
-ufullstendige enn feil.
+konsept er at de de gravis forbedrer og utvider det med større og større
+presisjon etter hvert som måleinstrumentene blir bedre.  Teorier er mer
+ufullstendige enn de er feilaktige.
 
-Dette gjelder for mange andre tilfeller enn kun formen på jorden.  Selv når
-en ny teori tilsynelatende representerer en revolusjon, så kommer den ut av
-små forbedringer.  Hvis noe mer enn små forbedringer trengs, så ville ikke
-den gamle teorien ha vart så lenge.
+Dette gjelder for mange andre tilfeller enn kun jordens form.  Selv når en
+ny teori tilsynelatende representerer en revolusjon, så vokser den normalt
+frem fra små forbedringer.  Hvis noe mer enn små forbedringer trengs, så
+ville ikke den gamle teorien ha vart så lenge.
 
-Copernicus endret fra et jordsentrisk planetsystem til et solsentrert
-system.  Ved å gjøre dette byttet han fra noe som var åpenbart til noe som
-tilsynelatende var latterlig. Men det var derimot et spørsmål om å finne
-bedre måter å beregne planetenes bevegelser på himmelen, og til slutt ble
-den geosentriske teorien ganske enkelt forlatt.  Det var nettopp på grunn av
-at den gamle teorien ga resultater som var rimelige gode etter
-målestandardene den gangen at den ble beholdt så lenge.
+Kopernikus skiftet fra et jordsentrisk planetsystem til et solsentrert
+system.  Ved å gjøre dette byttet han ut noe som var åpenbart med noe som
+tilsynelatende var latterlig. Men dette var et spørsmål om å finne bedre
+måter å beregne planetenes bevegelser på himmelen, og til slutt ble den
+geosentriske teorien ganske enkelt forlatt.  Det var nettopp på grunn av at
+den gamle teorien ga resultater som var rimelige gode etter målestandardene
+den gangen at den ble beholdt så lenge.
 
-Nok en gang, det er på grunn av at geologiske former på jorden ender seg så
-sakte og at levende ting på toppen av dem endrer seg så sakte at det først
+Det var også på grunn av at geologiske former på jorden ender seg så sakte
+og at levende vesen på toppen av dem evolverer så langsomt at det først
 virket fornuftig å anta at det ikke var noen endring og at jorden og livet
 alltid hadde eksistert som de gjør i dag.  Hvis det var tilfelle hadde det
 ikke noe å si om jorden og livet var milliarder av år gamle eller bare noen
 tusen.  Tusener var enklere å forstå.
 
-Men når nøye observasjoner viste at jorden og livet endret seg med en
+Men når grundige observasjoner viste at jorden og livet endret seg med en
 hastighet som var svært liten men ikke null ble det klart at jorden og livet
 måtte være veldig gammel.  Moderne geologi ble skapt, og det samme ble
 forståelsen av biologisk evolusjon.
 
-Hvis endringshastigheten var høyere ville geologi og evolusjon ha nådd sin
-moderte tilstand for lenge siden.  Det er kun fordi forskjellen mellom
-endringshastigheten i et statisk univers og endringshastigheten i et univers
-i utvikling er mellom null og veldig nært null at kreasjonistene kan
-fortsette å spre tullet sitt.
+Hvis endringshastigheten var høyere ville [innsikten om] geologi og
+evolusjon ha nådd sin moderne tilstand for lenge siden.  Det er kun fordi
+forskjellen mellom endringshastigheten i et statisk univers og
+endringshastigheten i et univers i utvikling er mellom null og veldig nært
+null at kreasjonistene kan fortsette å spre sin dårskap.
 
 I og med at forbedringer av teorier blir mindre og mindre etter hvert betyr
-det at svært gamle teorier også må ha hatt tilstrekkelig rett til å føre til
-fremskritt.  Fremskritt som ikke ble borte av påfølgende forbedringer.
+det at selv svært gamle teorier også må ha hatt tilstrekkelig rett til å
+føre til fremskritt.  Fremskritt som ikke ble borte av påfølgende
+forbedringer.
 
-Grekerne introduserte for eksempel begrepene lengdegrad og breddegrad, og
-laget fornuftige kart over middelhavet, uten å ta hensyn til kuleform, og vi
+Grekerne introduserte for eksempel begrepene lengdegrad og breddegrad. De
+laget fornuftige kart over Middelhavet uten å ta hensyn til kuleform, og vi
 bruker fortsatt lengdegrad og breddegrad i dag.
 
 Sumererne var antagelig de første til å etablere prinsippet om at planetenes
@@ -261,7 +261,7 @@ med å finne måter å gjøre dette selv om de antok at jorden var sentrum for
 universet.  Målingene de gjorde har blitt enormt forbedret, men prinsippet
 består.
 
-Selvfølgelig kan teoriene vi har nå anses å være feil i den enkle
+Selvfølgelig kan teoriene vi har nå anses å være gale i den enkle
 betydningen av ordet som min engelske litteraturviterkorrespondent legger
 opp til, men i en mer sannferdig og subtil forståelse bør de bare anses som
 ufullstendige.
