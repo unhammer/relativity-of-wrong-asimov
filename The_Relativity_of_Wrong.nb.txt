@@ -112,15 +112,15 @@ Omtrent et århundre etter Aristoteles la den greske filosofen Eratosthenes
 merke til at solen kastet skygge med ulik lengde på ulike lengdegrader (alle
 skygger ville ha samme lengde hvis jordens overflate var flat).  Fra
 forskjellen i skyggelengde kalkulerte han størrelsen på jordens kule og fant
-ut at den var 40 000 km i omkrets.
+ut at den var 40 000 kilometer i omkrets.
 
-Krumningen på en slik kule er omtrent 0.000078 pr. kilometer, en verdi som
-du kan se er veldig nær 0 pr. kilometer, og en som ikke er enkel å måle med
-de teknikkene som var tilgjengelig i historisk tid.  Den ørlille forskjellen
-mellom 0 og 0.000078 forklarer hvorfor det tok så lang tid å komme fra en
-flat jord til en kulerund jord.
+Krumningen på en slik kule er omtrent 0,0000785 kilometer pr. kilometer, en
+verdi som du kan se er veldig nær 0 pr. kilometer, og en som ikke er enkel å
+måle med de teknikkene som var tilgjengelig i historisk tid.  Den ørlille
+forskjellen mellom 0 og 0,0000785 forklarer hvorfor det tok så lang tid å
+komme fra en flat jord til en kulerund jord.
 
-Merk at selv en ørliten forskjell, som den mellom 0 og 0.000078, kan være
+Merk at selv en ørliten forskjell, som den mellom 0 og 0,0000785, kan være
 ekstremt viktig.  Forskjellen summerer seg opp.  Jorden kan overhodet ikke
 kartlegges nøyaktig over store områder hvis forskjellen ikke tas hensyn til
 og uten at jorden anses å være en kule i stedet for en flat overflate.
@@ -181,9 +181,10 @@ betyr at «flattrykningen» til jorden (dets avvik fra en ekte kule) er
 
 For å si det på en annen måte, så vil krumningen over alt på en flat
 overflate være 0 pr. kilometer.  På jordens kulerunde overflate er
-krumningen overalt 0.000078 pr. kilometer (eller *8 tommer pr. engelsk
-mil*).  På jordens flatklemte sfæroideoverflate vil krumningen variere
-mellom *7.973 tommer pr. engelsk mil* til *8.027 tommer pr. engelsk mil*.
+krumningen overalt 0,0000785 kilometer pr. kilometer (eller 7,85 centimeter
+pr. kilometer).  På jordens flatklemte sfæroideoverflate vil krumningen
+variere mellom 7.84 centimeter pr. kilometer og 7.86 centimeter
+pr. kilometer.
 
 Korreksjonen når en går fra kuleform til flatklemt sfæroider er mye mindre
 enn når en går fra flat til kuleform.  Selv om påstanden om at jorden er en
