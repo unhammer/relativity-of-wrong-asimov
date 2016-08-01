@@ -281,3 +281,5 @@ measurements have been enormously refined but the principle remains.
 Naturally, the theories we now have might be considered wrong in the
 simplistic sense of my English Lit correspondent, but in a much truer
 and subtler sense, they need only be considered incomplete.
+
+@footer@
