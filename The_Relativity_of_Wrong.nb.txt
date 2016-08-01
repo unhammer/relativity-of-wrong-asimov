@@ -2,8 +2,8 @@ Fra Skeptical Inquirer, høsten 1989, vol. 14, no. 1, s. 35-44
 
 Relativt feil
 
-Av Isaac Asimov.  Oversatt til bokmål og tilpasset norske forhold av Petter
-Reinholdtsen og Asbjørn Dyrendal.
+Av Isaac Asimov.  Oversatt til bokmål og omregnet fra tommer og engelske mil
+til metermål av Petter Reinholdtsen og Asbjørn Dyrendal.
 
 Jeg fikk et brev her om dagen.  Det var håndskrevet, med en knotete
 håndskrift som gjorde det vanskelig å lese.  Jeg forsøkte uansett å forstå
@@ -11,9 +11,9 @@ hva som sto der i tilfelle det skulle vise seg å være noe viktig.  I den
 første setningen forklarte forfatteren at han studerte fordypningsfag i
 engelsk litteratur men følte at han trengte å lære meg naturvitenskap.  (Jeg
 sukket litt, da jeg kjenner svært få engelskstudenter som kan nok til å lære
-meg naturvitenskap.  Men jeg vet godt at omfanget av alt jeg ikke vet er
-enormt, og jeg er klar til å lære så mye jeg kan fra hvem det skal være, så
-jeg fortsatte å lese.)
+meg noe om naturvitenskap.  Men jeg vet godt at omfanget av alt jeg ikke vet
+er enormt, og jeg er klar til å lære så mye jeg kan fra hvem det skal være,
+så jeg fortsatte å lese.)
 
 Det så ut til at jeg i et av mine utallige essay hadde gitt uttrykk for en
 viss glede over å leve i et århundre hvor vi endelig hadde fått grunnlaget
@@ -21,8 +21,8 @@ for universet riktig.
 
 Jeg gikk ikke i detaljer, men det jeg mente var at vi nå kjenner de
 grunnleggende reglene som styrer universet og hvordan gravitasjonen for
-mesteparten virker sammen, slik relativitetsteorien utarbeidet mellom 1905
-og 1916 viser.  Vi kjenner også til de grunnleggende reglene som styrer
+mesteparten virker sammen, slik relativitetsteorien (utarbeidet mellom 1905
+og 1916) viser.  Vi kjenner også til de grunnleggende reglene som styrer
 subatomære partikler og deres forhold til hverandre, da disse er svært godt
 beskrevet av kvanteteorien som ble utarbeidet mellom 1900 og 1930.  I
 tillegg har vi funnet ut at galakser og  galaksehoper er de grunnleggende
@@ -44,27 +44,27 @@ jeg var svært tåpelig som innbilte meg at jeg visste en hel masse.
 
 Jeg svarte ham slik: «Da folk mente at jorden var flat, John, så tok de
 feil.  Da folk mente at jorden var kulerund, så tok de feil.  Men hvis du
-tror at det å mene at jorden er en kule er like galt som å mene at jorda er
-flat, så er ditt syn mer feil enn begge to til sammen.»
+tror at det å mene at jorden er en kule er like feil som å mene at jorda er
+flat, så tar du mer feil enn begge to til sammen.»
 
 Du forstår, det grunnleggende problemet er at folk tenker på «riktig» og
 «feil» som absolutter.  At alt som ikke er perfekt og fullstendig riktig er
 komplett og like mye feil.
 
-Jeg tror derimot ikke at det er slik.  For meg virker det som om riktig og
-feil er konsept med uskarpe grenser, og jeg vil bruke denne teksten til å
+Jeg tror derimot ikke at det er tilfelle.  For meg virker det som om riktig
+og feil er konsept med uskarpe grenser, og jeg vil bruke denne teksten til å
 forklare hvorfor jeg mener dette.
 
 Når min venn litteraturviteren forteller meg at naturvitenskapsfolk i hvert
 århundre har tenkt at de har forstått universet og alltid tatt feil, så
-ønsker jeg å vite hvor feil tok de?  Har de alltid tatt like mye feil?  La
+ønsker jeg å vite hvor feil de tok.  Har de alltid tatt like mye feil?  La
 oss se på et eksempel.
 
-I sivilisasjonens tidlige dager, var den generelle forståelsen at jorda var
+I sivilisasjonens tidligste tider var den generelle forståelsen at jorda var
 flat.  Det kom ikke av at folk var dumme, eller av at de var fast bestemt på
 å tro på rare ting.  De opplevde at den var flat basert på klare indisier.
-Det var ikke et enkelt spørsmål om «det er slik den ser ut», da jorden jo
-ikke ser flat ut.  Den er jo kaotisk humpete, med hauger, daler,
+Det var ikke bare et enkelt spørsmål om at «det er slik den ser ut», siden
+jorden jo ikke ser flat ut.  Den er jo kaotisk humpete, med hauger, daler,
 steinrøyser, klipper og så videre.
 
 Selvsagt finnes det sletter der, i avgrensede områder, jordens overflate ser
@@ -90,7 +90,7 @@ er nesten 0 per kilometer, så selv om flat jord-teorien er feil, så er den
 jo også nesten riktig.  Det er årsaken til at teorien overlevde så lenge.
 
 Det var helt klart grunner som gjorde flat jord-teorien lite
-tilfredstillende og, rundt 350 f.kr., oppsummerte den greske filosofen
+tilfredstillende, og rundt 350 f.kr. oppsummerte den greske filosofen
 Aristoteles dem.  For det første, så forsvinner noen stjerner utenfor den
 sørlige himmelhvelving når en reiser nordover, og utenfor den nordlige
 himmelhvelving når en reiser sørover.  For det andre er jordens skygge på
@@ -99,8 +99,8 @@ ser en her på jorda at skroget på skip forsvinner før masten når de seiler
 over horisonten, uansett hvilken retning de seiler.
 
 Ingen av disse tre observasjonene kunne forklares på fornuftig vis hvis
-jordens overflate var flat, men kunne forklares ved å anta at jorden var en
-kule.
+jordens overflate var flat, men de kunne forklares ved å anta at jorden var
+en kule.
 
 I tillegg trodde Aristoteles at all solid materie har en tendens til å
 bevege seg mot et felles senter, og hvis all solid materie gjorde dette
@@ -132,9 +132,9 @@ eksistensen av en «kant» på overflaten.  En kulerund jord, derimot, fører
 til en jord som er både uten kant og ikke uendelig.  Og det er sistnevnte
 antagelse som er konsistent med alle senere observasjoner.
 
-Så selv om flat jord-teorien bare er litt feil og de som kom opp med idéen
-bør berømmes, så er den gal nok til å forkastes til fordel for teorien om en
-kulerund jord.
+Så selv om flat jord-teorien bare tar litt feil og de som kom opp med idéen
+bør berømmes, så tar den feil nok til å forkastes til fordel for teorien om
+en kulerund jord.
 
 Men er virkelig jorden en kule?
 
@@ -207,14 +207,14 @@ avviket et spørsmål om meter i stedet for kilometer, og justeringen i
 krumningen i området milliontedels centimeter pr. kilometer.
 
 Min venn litteraturviteren som lever i en mental verden med absolutt riktig
-og galt, kan ha forestilt seg at i og med at alle teorier er feil, så kan
-jorden tenkes å være kuleformet nå, kubisk neste århundre, en hul ikosaeder
+og feil, kan ha forestilt seg at i og med at alle teorier er feil, så kan
+jorden tenkes å være kuleformet nå, kubisk neste århundre, en hul tjuekant
 det neste og smultringformet det påfølgende.
 
 Det som egentlig skjer er at når vitenskapsfolk har fått tak på et godt
-konsept er at de de gravis forbedrer og utvider det med større og større
+konsept er at de gradvis forbedrer og utvider det med større og større
 presisjon etter hvert som måleinstrumentene blir bedre.  Teorier er mer
-ufullstendige enn de er feilaktige.
+ufullstendige enn de «tar feil».
 
 Dette gjelder for mange andre tilfeller enn kun jordens form.  Selv når en
 ny teori tilsynelatende representerer en revolusjon, så vokser den normalt
@@ -229,8 +229,8 @@ geosentriske teorien ganske enkelt forlatt.  Det var nettopp på grunn av at
 den gamle teorien ga resultater som var rimelige gode etter målestandardene
 den gangen at den ble beholdt så lenge.
 
-Det var også på grunn av at geologiske former på jorden ender seg så sakte
-og at levende vesen på toppen av dem utvikler seg så langsomt at det først
+Det var også på grunn av at geologiske former på jorden endrer seg så sakte
+og at de levende artene på toppen av dem endrer seg så langsomt at det først
 virket fornuftig å anta at det ikke var noen endring og at jorden og livet
 alltid hadde eksistert som de gjør i dag.  Hvis det var tilfelle hadde det
 ikke noe å si om jorden og livet var milliarder av år gamle eller bare noen
@@ -262,7 +262,6 @@ med å finne måter å gjøre dette selv om de antok at jorden var sentrum for
 universet.  Målingene de gjorde har blitt enormt forbedret, men prinsippet
 består.
 
-Selvfølgelig kan teoriene vi har nå anses å være gale i den enkle
-betydningen av ordet som min engelske litteraturviterkorrespondent legger
-opp til, men i en mer sannferdig og subtil forståelse bør de bare anses som
-ufullstendige.
+Selvfølgelig kan teoriene vi har nå anses å ta feil i den enkle betydningen
+av ordet som min engelske litteraturviterkorrespondent legger opp til, men i
+en mer sannferdig og subtil forståelse bør de bare anses som ufullstendige.
