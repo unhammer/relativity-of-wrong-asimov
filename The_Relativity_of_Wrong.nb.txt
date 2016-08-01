@@ -2,8 +2,7 @@ Fra Skeptical Inquirer, høsten 1989, vol. 14, no. 1, s. 35-44
 
 Relativt feil
 
-Av Isaac Asimov.  Oversatt til bokmål og omregnet fra tommer og engelske mil
-til metermål av Petter Reinholdtsen og Asbjørn Dyrendal.
+Av Isaac Asimov.
 
 Jeg fikk et brev her om dagen.  Det var håndskrevet, med en knotete
 håndskrift som gjorde det vanskelig å lese.  Jeg forsøkte uansett å forstå
@@ -265,3 +264,6 @@ består.
 Selvfølgelig kan teoriene vi har nå anses å ta feil i den enkle betydningen
 av ordet som min engelske litteraturviterkorrespondent legger opp til, men i
 en mer sannferdig og subtil forståelse bør de bare anses som ufullstendige.
+
+(Oversatt til bokmål og omregnet fra tommer og engelske mil til
+metermål av Petter Reinholdtsen med hjelp fra Asbjørn Dyrendal.)
