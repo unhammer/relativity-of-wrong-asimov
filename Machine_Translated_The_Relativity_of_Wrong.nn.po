@@ -1,0 +1,690 @@
+# Copyright (C) 2016 Petter Reinholdtsen
+# This file is distributed under the same license as the Relativitiy of Wrong package.
+#
+# Petter Reinholdtsen <pere@hungry.com>, 2016.
+# Asbjørn Dyrendal <asbjorn.dyrendal@ntnu.no>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-28 10:13+0200\n"
+"PO-Revision-Date: 2016-07-28 17:10+0200\n"
+"Last-Translator: Petter Reinholdtsen <pere@hungry.com>\n"
+"Language-Team: Norwegian Bokmål <i18n-no@lister.ping.uio.no>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#. type: Plain text
+#, fuzzy
+msgid "From The Skeptical Inquirer, Fall 1989, Vol. 14, No. 1, Pp. 35-44"
+msgstr "Frå Skeptical Inquirer, hausten 1989, vol. 14, no. 1, s. 35-44"
+
+#. type: Plain text
+#, fuzzy
+msgid "The Relativity of Wrong"
+msgstr "Relativt feil"
+
+#. type: Plain text
+#, fuzzy
+msgid "By Isaac Asimov"
+msgstr ""
+"Av Isaac Asimov.  Omsett til bokmål og omregnet frå tommar og engelske mil "
+"til metermål av Petter Reinholdtsen og Asbjørn Dyrendal."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"I RECEIVED a letter the other day. It was handwritten in crabbed penmanship "
+"so that it was very difficult to read. Nevertheless, I tried to make it out "
+"just in case it might prove to be important. In the first sentence, the "
+"writer told me he was majoring in English literature, but felt he needed to "
+"teach me science. (I sighed a bit, for I knew very few English Lit majors "
+"who are equipped to teach me science, but I am very aware of the vast state "
+"of my ignorance and I am prepared to learn as much as I can from anyone, so "
+"I read on.)"
+msgstr ""
+"Eg fekk eit brev her om dagen.  Det var handskrevet, med ein knota "
+"handskrift som gjorde det vanskeleg å lesa.  Eg freista uansett å forstå kva "
+"som stod der i tilfelle det skulle visa seg å vera noko viktig.  I den "
+"første setninga forklarte forfattaren at han studerte fordypningsfag i "
+"engelsk litteratur men følte at han trong å læra meg naturvitskap.  (Eg "
+"sukka litt, då eg kjenner svært få engelskstudentar som kan nok til å læra "
+"meg noko om naturvitskap.  Men eg veit godt at omfanget av alt eg ikkje veit "
+"er enormt, og eg er klår til å læra så mye eg kan frå kven det skal vera, så "
+"eg heldt fram å lesa.)"
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"It seemed that in one of my innumerable essays, I had expressed a certain "
+"gladness at living in a century in which we finally got the basis of the "
+"universe straight."
+msgstr ""
+"Det såg ut til at eg i eit av dei utalde essaya mine hadde gjeve uttrykk for "
+"ei viss glede over å leva i eit århundre der vi endeleg hadde fått "
+"grunnlaget for universet riktig."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"I didn't go into detail in the matter, but what I meant was that we now know "
+"the basic rules governing the universe, together with the gravitational "
+"interrelationships of its gross components, as shown in the theory of "
+"relativity worked out between 1905 and 1916. We also know the basic rules "
+"governing the subatomic particles and their interrelationships, since these "
+"are very neatly described by the quantum theory worked out between 1900 and "
+"1930. What's more, we have found that the galaxies and clusters of galaxies "
+"are the basic units of the physical universe, as discovered between 1920 and "
+"1930."
+msgstr ""
+"Eg gjekk ikkje i detaljar, men det eg meinte var at vi no kjenner dei "
+"grunnleggjande reglene som styrer universet og korleis gravitasjonen for "
+"mesteparten verkar saman, slik relativitetsteorien (utarbeidd mellom 1905 og "
+"1916) viser.  Vi kjenner òg til dei grunnleggjande reglene som styrer "
+"subatomære partiklar og tilhøvet deira til kvarandre, då desse er svært godt "
+"skildra av kvanteteorien som vart utarbeidd mellom 1900 og 1930 .  I tillegg "
+"har vi funne ut at galaksar og  galaksehoper er dei grunnleggjande einingane "
+"som utgjer det fysiske universet, noko vi oppdaga mellom 1920 og 1930."
+
+#. type: Plain text
+#, fuzzy
+msgid "These are all twentieth-century discoveries, you see."
+msgstr "Som du ser, er alle desse oppdagelser frå det tjuande århundret."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The young specialist in English Lit, having quoted me, went on to lecture me "
+"severely on the fact that in every century people have thought they "
+"understood the universe at last, and in every century they were proved to be "
+"wrong. It follows that the one thing we can say about our modern \"knowledge"
+"\" is that it is wrong. The young man then quoted with approval what "
+"Socrates had said on learning that the Delphic oracle had proclaimed him the "
+"wisest man in Greece. \"If I am the wisest man,\" said Socrates, \"it is "
+"because I alone know that I know nothing.\" the implication was that I was "
+"very foolish because I was under the impression I knew a great deal."
+msgstr ""
+"Etter at den ungen litteraturviteren hadde sitert meg, heldt fram han med å "
+"preika meg om det faktumet at i kvart århundre hadde folk trudd dei endeleg "
+"hadde forstått universet, og i kvart einaste århundre hadde det vist seg at "
+"dei tok feil.  Konklusjonen er at det einaste vi kan seia om vår modere "
+"«kunnskap» er at den garantert er feil.  Den unge mannen gav deretter sin "
+"støytte til eit sitat frå Sokrates, som hadde kome med følgjande kommentar "
+"då han vart kjent med at orakelet i Delfi hadde erklært at han var den "
+"visaste mannen i Hellas. «Viss eg er den visaste mannen», sa Sokrates, «så "
+"er det berre på grunn av at eg åleine veit at eg inkje veit.»  Implikasjonen "
+"var at eg var svært tåpeleg som innbilte meg at eg visste ein heil masse."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"My answer to him was, \"John, when people thought the earth was flat, they "
+"were wrong. When people thought the earth was spherical, they were wrong. "
+"But if you think that thinking the earth is spherical is just as wrong as "
+"thinking the earth is flat, then your view is wronger than both of them put "
+"together.\""
+msgstr ""
+"Eg svara han slik: «Då folk meinte at jorda var flat, John, så tok dei feil. "
+" Då folk meinte at jorda var kulerund, så tok dei feil.  Men viss du trur at "
+"det å meina at jorda er ei kule er like feil som å meina at jorda er flat, "
+"så tek du meir feil enn begge to til saman.»"
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The basic trouble, you see, is that people think that \"right\" and \"wrong"
+"\" are absolute; that everything that isn't perfectly and completely right "
+"is totally and equally wrong."
+msgstr ""
+"Du forstår, det grunnleggjande problemet er at folk tenkjer på «riktig» og "
+"«feil» som absolutt.  At alt som ikkje er perfekt og fullt riktig er "
+"komplett og like mykje feil."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"However, I don't think that's so. It seems to me that right and wrong are "
+"fuzzy concepts, and I will devote this essay to an explanation of why I "
+"think so."
+msgstr ""
+"Eg trur derimot ikkje at det er tilfelle.  For meg verkar det som om riktig "
+"og feil er konsept med uskarpe grenser, og eg vil bruka denne teksta til å "
+"forklara kvifor eg meiner dette."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"When my friend the English literature expert tells me that in every century "
+"scientists think they have worked out the universe and are always wrong, "
+"what I want to know is how wrong are they? Are they always wrong to the same "
+"degree? Let's take an example."
+msgstr ""
+"Når venen min litteraturviteren fortel meg at naturvitskapsfolk i kvart "
+"århundre har tenkt at dei har forstått universet og alltid teke feil, så "
+"ynskjer eg å vita der feil dei tok.  Har dei alltid teke like mykje feil?  "
+"La oss sjå på eit døme."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"In the early days of civilization, the general feeling was that the earth "
+"was flat. This was not because people were stupid, or because they were "
+"intent on believing silly things. They felt it was flat on the basis of "
+"sound evidence. It was not just a matter of \"That's how it looks,\" because "
+"the earth does not look flat. It looks chaotically bumpy, with hills, "
+"valleys, ravines, cliffs, and so on."
+msgstr ""
+"I dei tidlegaste tidene til sivilisasjonen var den generelle forståinga at "
+"jorda var flat.  Det kom ikkje av at folk var dumme, eller av at dei var "
+"fast avgjort på å tru på rare ting.  Dei opplevde at han var flat basert på "
+"klåre indisium.  Det var ikkje berre ein enkel spurnad om at «det er slik "
+"han ser ut», sidan jorda jo ikkje ser flat ut.  Han er jo kaotisk humpa, med "
+"haugar, dalar, steinrøyser, klipper og så vidare."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Of course there are plains where, over limited areas, the earth's surface "
+"does look fairly flat. One of those plains is in the Tigris-Euphrates area, "
+"where the first historical civilization (one with writing) developed, that "
+"of the Sumerians."
+msgstr ""
+"Sjølvsagt finst det slettar der, i avgrensa område, overflata til jorda ser "
+"ganske flat ut.  Ein av desse sletta er i Tigris-Eufrat-områdd, der den "
+"første historiske sivilisasjonen (ein med skriftspråk) utvikla seg, den "
+"sumeriske."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Perhaps it was the appearance of the plain that persuaded the clever "
+"Sumerians to accept the generalization that the earth was flat; that if you "
+"somehow evened out all the elevations and depressions, you would be left "
+"with flatness. Contributing to the notion may have been the fact that "
+"stretches of water (ponds and lakes) looked pretty flat on quiet days."
+msgstr ""
+"Kanskje var det utforminga til sletta som fekk smarte sumerere til å "
+"akseptera generaliseringen om at jorda var flat; at viss ein, på eitkvart "
+"vis, jamna ut alle høgder og dalar, så ville ein stå igjen med noko flatt. "
+"At strekningar med vatn, som dammar og innsjøar, så ganske flate ut på "
+"stille dagar kan ha bidrege til idéen."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Another way of looking at it is to ask what is the \"curvature\" of the "
+"earth's surface.  Over a considerable length, how much does the surface "
+"deviate (on the average) from perfect flatness. The flat-earth theory would "
+"make it seem that the surface doesn't deviate from flatness at all, that its "
+"curvature is 0 to the mile."
+msgstr ""
+"Ein annan måte å sjå på det er å spørja seg kva «krumningen» for overflata "
+"til jorda er.  Over ein betydeleg avstand, kor mye avvik overflata (i "
+"gjennomsnitt) frå perfekt flathet.  Flat jord-teorien ville få det til å sjå "
+"ut som om overflata ikkje avvik frå flathet i det heile, dvs. at den sin "
+"«krumning» er 0 per kilometer."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Nowadays, of course, we are taught that the flat-earth theory is wrong; that "
+"it is all wrong, terribly wrong, absolutely. But it isn't. The curvature of "
+"the earth is nearly 0 per mile, so that although the flat-earth theory is "
+"wrong, it happens to be nearly right. That's why the theory lasted so long."
+msgstr ""
+"I dag lærer vi naturlegvis at flat jord-teorien er feil.  At han er heilt "
+"feil, absolutt forferdeleg feil.  Men han er ikkje det.  Krumningen på jorda "
+"er nesten 0 per kilometer, såg sjølv om flat jord-teorien er feil, så er han "
+"jo òg nesten riktig.  Det er årsaka til at teorien overlevde så lenge."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"There were reasons, to be sure, to find the flat-earth theory unsatisfactory "
+"and, about 350 B.C., the Greek philosopher Aristotle summarized them. First, "
+"certain stars disappeared beyond the Southern Hemisphere as one traveled "
+"north, and beyond the Northern Hemisphere as one traveled south. Second, the "
+"earth's shadow on the moon during a lunar eclipse was always the arc of a "
+"circle. Third, here on the earth itself, ships disappeared beyond the "
+"horizon hull-first in whatever direction they were traveling."
+msgstr ""
+"Det var heilt klårt grunnar som gjorde flat jord-teorien lite "
+"tilfredstillende, og rundt 350 f.kr. oppsummerte den greske filosofen "
+"Aristoteles dei.  For det første, så forsvinn nokre stjerner utanfor den "
+"sørlege himmelhvelving når ein reiser nordover, og utanfor den nordlege "
+"himmelhvelving når ein reiser sørover.  For det andre er jorda si skygga på "
+"månen under ein måneformørkelse alltid ein del av ein sirkel.  For det "
+"tredje ser ein her på jorda at skroget på skip forsvinn før masten når dei "
+"seglar over horisonten, uansett kva for ei retning dei seglar."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"All three observations could not be reasonably explained if the earth's "
+"surface were flat, but could be explained by assuming the earth to be a "
+"sphere."
+msgstr ""
+"Ingen av desse tre observasjonane kunne forklarast på fornuftig vis viss "
+"overflata til jorda var flat, men dei kunne forklarast ved å anta at jorda "
+"var ei kule."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"What's more, Aristotle believed that all solid matter tended to move toward "
+"a common center, and if solid matter did this, it would end up as a sphere. "
+"A given volume of matter is, on the average, closer to a common center if it "
+"is a sphere than if it is any other shape whatever."
+msgstr ""
+"I tillegg trudde Aristoteles at all solid materie har ein tendens til å røra "
+"seg mot eit felles senter, og viss all solid materie gjorde dette ville den "
+"enden opp som ei kule.  Eit gjeve volum med masse vil, i snitt, vera nærare "
+"eit felles senter viss han utgjer ei kule enn viss han utgjer ein kva for "
+"ein som helst anna form."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"About a century after Aristotle, the Greek philosopher Eratosthenes noted "
+"that the sun cast a shadow of different lengths at different latitudes (all "
+"the shadows would be the same length if the earth's surface were flat). From "
+"the difference in shadow length, he calculated the size of the earthly "
+"sphere and it turned out to be 25,000 miles in circumference."
+msgstr ""
+"Omtrent eit århundre etter Aristoteles la den greske filosofen Eratosthenes "
+"merke til at sola kasta skygga med ulik lengd på ulike lengdgrader (alle "
+"skygger ville ha same lengd viss overflata til jorda var flat).  Frå "
+"skilnaden i skyggelengde kalkulerte han storleiken på kula til jorda og fann "
+"ut at han var 40 000 kilometer i omkrets."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The curvature of such a sphere is about 0.000126 per mile, a quantity very "
+"close to 0 per mile, as you can see, and one not easily measured by the "
+"techniques at the disposal of the ancients. The tiny difference between 0 "
+"and 0.000126 accounts for the fact that it took so long to pass from the "
+"flat earth to the spherical earth."
+msgstr ""
+"Krumningen på ein slik kule er omtrent 0,0000785 kilometer pr. kilometer, "
+"ein verdi som du kan sjå er veldig nær 0 pr. kilometer, og ein som ikkje er "
+"enkel å mæla med dei teknikkane som var tilgjengeleg i oldtiden.  Den "
+"ørlille skilnaden mellom 0 og 0,0000785 forklarer kvifor det tok så lang tid "
+"å røra seg frå ei flat jord til ein kulerund jord."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Mind you, even a tiny difference, such as that between 0 and 0.000126, can "
+"be extremely important. That difference mounts up. The earth cannot be "
+"mapped over large areas with any accuracy at all if the difference isn't "
+"taken into account and if the earth isn't considered a sphere rather than a "
+"flat surface. Long ocean voyages can't be undertaken with any reasonable way "
+"of locating one's own position in the ocean unless the earth is considered "
+"spherical rather than flat."
+msgstr ""
+"Merk at sjølv ein ørliten skilnad, som han mellom 0 og 0,0000785, kan vera "
+"ekstremt viktig.  Skilnaden summerer seg opp.  Jorda kan i det heile ikkje "
+"kartleggjast nøyaktig over store område viss skilnaden ikkje vert teke omsyn "
+"til og utan at jorda ansast å vera ei kule i staden for ei flat overflate.  "
+"Lange sjøreiser kan ikkje gjennomførast med ein rimeleg måte å finna ut der "
+"ein er på havet utan å anta at jorda er kulerund i staden for flat."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Furthermore, the flat earth presupposes the possibility of an infinite "
+"earth, or of the existence of an \"end\" to the surface. The spherical "
+"earth, however, postulates an earth that is both endless and yet finite, and "
+"it is the latter postulate that is consistent with all later findings."
+msgstr ""
+"I tillegg leier ei flat jord til høvet for ei uendeleg jord, eller "
+"eksistensen av ein «kant» på overflata.  Ein kulerund jord, derimot, førar "
+"til ei jord som er både utan kant og ikkje uendeleg.  Og det er sistnemnde "
+"antagelse som er konsistent med alle seinare observasjonar."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"So, although the flat-earth theory is only slightly wrong and is a credit to "
+"its inventors, all things considered, it is wrong enough to be discarded in "
+"favor of the spherical-earth theory."
+msgstr ""
+"Så sjølv om flat jord-teorien berre tek litt feil og dei som kom opp med "
+"idéen byrd rosast, så tek den feilen nok til å forkastast til fordel for "
+"teorien om ein kulerund jord."
+
+#. type: Plain text
+#, fuzzy
+msgid "And yet is the earth a sphere?"
+msgstr "Men er verkelege jorda ei kule?"
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"No, it is not a sphere; not in the strict mathematical sense. A sphere has "
+"certain mathematical properties - for instance, all diameters (that is, all "
+"straight lines that pass from one point on its surface, through the center, "
+"to another point on its surface) have the same length."
+msgstr ""
+"Nei, han er ikkje ei kule, ikkje i matematisk forstand.  Ei kule har visse "
+"matematiske eigenskapar - til dømes har alle diametrar (dvs. alle rette "
+"linjer som går frå eit punkt på overflata, gjennom sentrum, til eit anna "
+"punkt på overflata) same lengd."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"That, however, is not true of the earth. Various diameters of the earth "
+"differ in length."
+msgstr ""
+"Dette er derimot ikkje riktig for jorda.  Ulike diametrar gjennom jorda har "
+"ulik lengd."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"What gave people the notion the earth wasn't a true sphere? To begin with, "
+"the sun and the moon have outlines that are perfect circles within the "
+"limits of measurement in the early days of the telescope.  This is "
+"consistent with the supposition that the sun and the moon are perfectly "
+"spherical in shape."
+msgstr ""
+"Hvorfra fekk folk ida om at jorda ikkje var ei ekte kule?  I starten hadde "
+"sola og månen omriss som var perfekte sirklar i samsvar med "
+"målebegrensningene som rådde i dei første dagane til teleskopet.  Dette er "
+"konsistent med antagelsen om at forma til sola og månen er perfekte kuler."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"However, when Jupiter and Saturn were observed by the first telescopic "
+"observers, it became quickly apparent that the outlines of those planets "
+"were not circles, but distinct ellipses. That meant that Jupiter and Saturn "
+"were not true spheres."
+msgstr ""
+"Men då Jupiter og Saturn vart observert med teleskop for første gong, vart "
+"det raskt openberra at omrisset av desse planetane ikkje var sirklar, men "
+"heilt klårt ellipsar.  Dette tydde at Jupiter og Saturn ikkje var ekte kuler."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Isaac Newton, toward the end of the seventeenth century, showed that a "
+"massive body would form a sphere under the pull of gravitational forces "
+"(exactly as Aristotle had argued), but only if it were not rotating. If it "
+"were rotating, a centrifugal effect would be set up that would lift the "
+"body's substance against gravity, and this effect would be greater the "
+"closer to the equator you progressed. The effect would also be greater the "
+"more rapidly a spherical object rotated, and Jupiter and Saturn rotated very "
+"rapidly indeed."
+msgstr ""
+"I slutten av det syttande århundret viste Isaac Newton at eit massivt lekam "
+"ville ta form av ei kule når gravitasjonskreftane verkte på han (slik "
+"Aristoteles hadde argumentert), men berre viss det ikkje roterte.  Viss det "
+"roterte ville ein sentrifugaleffekt finna stad som ville løfta massen til "
+"lekamen mot gravitasjonen og denne effekten ville vera større jo nærare "
+"ekvator ein kom.  Effekten ville vera større jo raskare det runde objektet "
+"roterte, og både Jupiter og Saturn roterer heilt klårt veldig raskt."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The earth rotated much more slowly than Jupiter or Saturn so the effect "
+"should be smaller, but it should still be there. Actual measurements of the "
+"curvature of the earth were carried out in the eighteenth century and Newton "
+"was proved correct."
+msgstr ""
+"Jorda roterte mykje langsommere enn Jupiter og Saturn, slik at effekten "
+"burde vera mindre men enno til steda.  Reelle målingar av krumningen til "
+"jorda vart gjennomført i det attande århundret og ein fann at Newton hadde "
+"rett."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The earth has an equatorial bulge, in other words. It is flattened at the "
+"poles. It is an \"oblate spheroid\" rather than a sphere. This means that "
+"the various diameters of the earth differ in length. The longest diameters "
+"are any of those that stretch from one point on the equator to an opposite "
+"point on the equator. This \"equatorial diameter\" is 12,755 kilometers "
+"(7,927 miles). The shortest diameter is from the North Pole to the South "
+"Pole and this \"polar diameter\" is 12,711 kilometers (7,900 miles)."
+msgstr ""
+"Med andre ord bular jorda ved ekvator og er flat ved pola.  Han er ein  "
+"«flatklemt sfæroide» i staden for ei kule.  Dette tyder at dei ulike "
+"diametrane til jorda har ulik lengd.  Dei lengste diameterene er dei som "
+"strekkjer seg frå ekvator til motsett endra av ekvator.  Denne «ekvatoriske "
+"diameteren» er 12 755 kilometer.  Den kortaste diameteren er frå nordpolen "
+"til sørpolen og denne «polaren diameteren» er 12 711 kilometer."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The difference between the longest and shortest diameters is 44 kilometers "
+"(27 miles), and that means that the \"oblateness\" of the earth (its "
+"departure from true sphericity) is 44/12755, or 0.0034. This amounts to 1/3 "
+"of 1 percent."
+msgstr ""
+"Skilnaden mellom den lengste og den kortaste diameteren er 44 km, kva for "
+"eit tyder at «flattrykningen» til jorda (det sitt avvik frå ein ekte kule) "
+"er 44/12755 eller 0,0034 . Det utgjer 1/3 av 1 prosent."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"To put it another way, on a flat surface, curvature is 0 per mile "
+"everywhere. On the earth's spherical surface, curvature is 0.000126 per mile "
+"everywhere (or 8 inches per mile). On the earth's oblate spheroidal surface, "
+"the curvature varies from 7.973 inches to the mile to 8.027 inches to the "
+"mile."
+msgstr ""
+"For å si det på ein annan måte, så vil krumningen over alt på ei flat "
+"overflate vera 0 pr. kilometer.  På kulerunden til jorda overflate er "
+"krumningen overalt 0,0000785 kilometer pr. kilometer (eller 7,85 centimeter "
+"pr. kilometer).  På jorda si flatklemte sfæroideoverflate vil krumningen "
+"variera mellom 7.84 centimeter pr. kilometer og 7.86 centimeter pr. "
+"kilometer."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The correction in going from spherical to oblate spheroidal is much smaller "
+"than going from flat to spherical. Therefore, although the notion of the "
+"earth as a sphere is wrong, strictly speaking, it is not as wrong as the "
+"notion of the earth as flat."
+msgstr ""
+"Korreksjonen når ein går frå kuleform til flatklemt sfæroider er mykje "
+"mindre enn når ein går frå flat til kuleform.  Sjølv om påstanden om at "
+"jorda er ein kule strengt teke er feil, så er det dermed ikkje like feil som "
+"påstanden om at jorda er flat."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Even the oblate-spheroidal notion of the earth is wrong, strictly speaking. "
+"In 1958, when the satellite Vanguard I was put into orbit about the earth, "
+"it was able to measure the local gravitational pull of the earth--and "
+"therefore its shape--with unprecedented precision. It turned out that the "
+"equatorial bulge south of the equator was slightly bulgier than the bulge "
+"north of the equator, and that the South Pole sea level was slightly nearer "
+"the center of the earth than the North Pole sea level was."
+msgstr ""
+"Sjølv forståinga av at jorda er ein flatklemt sfæroide er strengt teke feil. "
+"Då satellitten Vanguard I vart sett i bane rundt jorda i 1958, klarte han å "
+"mæla lokal gravitasjonstiltrekning på jorda -- og dermed forma dens -- med "
+"større presisjon enn nokon gong tidlegare.  Det viste seg at den ekvatoriale "
+"bulen sør for ekvator hadde litt meir bul enn bulen nord for ekvator, og at "
+"havnivået ved Sørpolen var lite sentrumet til nærare jorda enn havnivået ved "
+"Nordpolen."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"There seemed no other way of describing this than by saying the earth was "
+"pear-shaped, and at once many people decided that the earth was nothing like "
+"a sphere but was shaped like a Bartlett pear dangling in space. Actually, "
+"the pear-like deviation from oblate-spheroid perfect was a matter of yards "
+"rather than miles, and the adjustment of curvature was in the millionths of "
+"an inch per mile."
+msgstr ""
+"Det ser ikkje ut til å vera nokon annan måte å skildra dette enn å seia at "
+"jorda er pæreformet, og med ein gong var det mange som avgjorde at jorda i "
+"det heile ikkje likna på ei kule men var forma som ein *Bartlett*-pære som "
+"hengde i rommet.  I røyndomen var det pærelignende avviket ein spurnad om "
+"meter i staden for kilometer, og justeringen i krumningen i området "
+"milliontedels centimeter pr. kilometer."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"In short, my English Lit friend, living in a mental world of absolute rights "
+"and wrongs, may be imagining that because all theories are wrong, the earth "
+"may be thought spherical now, but cubical next century, and a hollow "
+"icosahedron the next, and a doughnut shape the one after."
+msgstr ""
+"Venen min litteraturviteren som lever i ei mentale verda med absolutt riktig "
+"og feil, kan ha forestilt seg at i og med at alle teoriar er feil, så kan "
+"jorda tenkjast å vera kuleformet no, kubisk neste århundre, ein hol tjuekant "
+"det neste og smultringformet det påfølgjande."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"What actually happens is that once scientists get hold of a good concept "
+"they gradually refine and extend it with greater and greater subtlety as "
+"their instruments of measurement improve. Theories are not so much wrong as "
+"incomplete."
+msgstr ""
+"Det som eigenleg skjer er at når vitskapsfolk har fått tak på eit godt "
+"konsept er at dei gradvis forbetrar og utvidar det med større og større "
+"presisjon etter kvart som måleinstrumenta vert betre.  Teoriar er meir "
+"ufullstendige enn dei «tek feil»."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"This can be pointed out in many cases other than just the shape of the "
+"earth. Even when a new theory seems to represent a revolution, it usually "
+"arises out of small refinements. If something more than a small refinement "
+"were needed, then the old theory would never have endured."
+msgstr ""
+"Dette gjeld for mange andre tilfelle enn berre forma til jorda.  Sjølv når "
+"ein ny teori tilsynelatande representerer ein revolusjon, så veks den "
+"normalt fram frå små forbedringer.  Viss noko meir enn små forbedringer "
+"trengst, så ville ikkje den gamle teorien ha vart så lenge."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Copernicus switched from an earth-centered planetary system to a sun-"
+"centered one. In doing so, he switched from something that was obvious to "
+"something that was apparently ridiculous. However, it was a matter of "
+"finding better ways of calculating the motion of the planets in the sky, and "
+"eventually the geocentric theory was just left behind.  It was precisely "
+"because the old theory gave results that were fairly good by the measurement "
+"standards of the time that kept it in being so long."
+msgstr ""
+"Kopernikus skifta frå eit jordsentrisk planetsystem til eit solsentrert "
+"system.  Ved å gjera dette bytte han ut noko som var openberra med noko som "
+"tilsynelatande var latterleg. Men dette var ein spurnad om å finna betre "
+"måtar å berekna rørslene til planetane på himmelen, og til slutt vart den "
+"geosentriske teorien ganske enkelt forlate.  Det var nettopp på grunn av at "
+"den gamle teorien gav resultat som var rimelege gode etter målestandardene "
+"den gongen at han vart halde på så lenge."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Again, it is because the geological formations of the earth change so slowly "
+"and the living things upon it evolve so slowly that it seemed reasonable at "
+"first to suppose that there was no change and that the earth and life always "
+"existed as they do today. If that were so, it would make no difference "
+"whether the earth and life were billions of years old or thousands. "
+"Thousands were easier to grasp."
+msgstr ""
+"Det var òg på grunn av at geologiske former på jorda endrar seg så sakte og "
+"at dei levande artene på toppen av dei endrar seg så langsomt at det først "
+"verkte fornuftig å anta at det ikkje var nokon endring og at jorda og livet "
+"alltid hadde eksistert som dei gjer i dag.  Viss det var tilfelle hadde det "
+"ikkje noko å seia om jorda og livet var milliardar av år gamle eller berre "
+"nokon tusen.  Tusen var enklare å forstå."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"But when careful observation showed that the earth and life were changing at "
+"a rate that was very tiny but not zero, then it became clear that the earth "
+"and life had to be very old. Modern geology came into being, and so did the "
+"notion of biological evolution."
+msgstr ""
+"Men når grundige observasjonar viste at jorda og livet endra seg med ein "
+"fart som var svært liten men ikkje null vart det klårt at jorda og livet "
+"måtte vera veldig gammal.  Moderne geologi vart skapt, og det same vart "
+"forståinga av biologisk evolusjon."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"If the rate of change were more rapid, geology and evolution would have "
+"reached their modern state in ancient times. It is only because the "
+"difference between the rate of change in a static universe and the rate of "
+"change in an evolutionary one is that between zero and very nearly zero that "
+"the creationists can continue propagating their folly."
+msgstr ""
+"Viss endringsfarten var høgare ville [innsikta om] geologi og evolusjon ha "
+"nådd den moderne tilstanden sin i oldtiden.  Det er berre fordi skilnaden "
+"mellom endringsfarten i eit statisk univers og endringsfarten i eit univers "
+"i utvikling er mellom null og veldig nært null at kreasjonistene kan halda "
+"fram å spreia dårskapen sin."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Since the refinements in theory grow smaller and smaller, even quite ancient "
+"theories must have been sufficiently right to allow advances to be made; "
+"advances that were not wiped out by subsequent refinements."
+msgstr ""
+"I og med at forbedringer av teoriar vert mindre og mindre etter kvart tyder "
+"det at sjølv svært gamle teoriar òg må ha hatt tilstrekkeleg rett til å føra "
+"til framsteg.  Framsteg som ikkje vart borte av påfølgjande forbedringer."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The Greeks introduced the notion of latitude and longitude, for instance, "
+"and made reasonable maps of the Mediterranean basin even without taking "
+"sphericity into account, and we still use latitude and longitude today."
+msgstr ""
+"Grekarane introduserte til dømes omgrepa lengdgrad og breiddegrad. Dei laga "
+"fornuftige kart over Middelhavet utan å ta omsyn til kuleform, og vi brukar "
+"enno lengdgrad og breiddegrad i dag."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"The Sumerians were probably the first to establish the principle that "
+"planetary movements in the sky exhibit regularity and can be predicted, and "
+"they proceeded to work out ways of doing so even though they assumed the "
+"earth to be the center of the universe. Their measurements have been "
+"enormously refined but the principle remains."
+msgstr ""
+"Sumererne var antakeleg dei første til å etablera prinsippet om at rørslene "
+"til planetane på himmelen var regelmessige og kunne føreseiast.  Dei heldt "
+"fram med å finna måtar å gjera dette sjølv om dei antok at jorda var sentrum "
+"for universet.  Målingane dei gjorde har vorte enormt forbetra, men "
+"prinsippet består."
+
+#. type: Plain text
+#, fuzzy
+msgid ""
+"Naturally, the theories we now have might be considered wrong in the "
+"simplistic sense of my English Lit correspondent, but in a much truer and "
+"subtler sense, they need only be considered incomplete."
+msgstr ""
+"Sjølvsagt kan teoriane vi har no ansast å ta feil i den enkle tydinga av "
+"ordet som min engelske litteraturviterkorrespondent legg opp til, men i ein "
+"meir sannferdig og subtil forståing bør dei berre ansast som ufullstendige."
